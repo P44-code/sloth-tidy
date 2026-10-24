@@ -50,7 +50,7 @@ The notebook (`.ipynb` file) runs the same steps on 4 fake demo files, so you do
 
 ## Settings
 
-You can change these at the top of the code:
+:
 
 - `MODEL_NAME`: the open model to use (default `gemma3:4b`)
 - `CATEGORIES`: the folders files can be sorted into
@@ -61,6 +61,4 @@ You can change these at the top of the code:
 - Small models make mistakes, which is why it shows a plan first and has undo.
 - Only text files are read. PDFs and images are judged by file name.
 
-## License
 
-Add a license file if you want others to reuse the code.
